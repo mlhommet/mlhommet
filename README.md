@@ -15,6 +15,9 @@ I'm the co-founder and CTO of **Tigo Labs**, where I design and build agents who
 - LLM agents & multi-agent orchestration — LangGraph
 - Long-term memory systems, RAG, Knowledge Graphs...
 
+#### 🚀 Featured open source
+**[langgraph-interaction-kit](https://github.com/mlhommet/langgraph-interaction-kit)** — reusable interaction primitives for LangGraph.js: generative-UI human-in-the-loop interrupts (the graph pauses and renders buttons/choices/text, then resumes) + declarative agent interaction templates.
+
 📫 [LinkedIn](https://www.linkedin.com/in/mlorlhommet/)
 💬 [simone.coach](https://simone.coach)
 🌐 [Tigo Labs](https://simone.coach)
